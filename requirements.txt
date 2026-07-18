@@ -43,7 +43,7 @@ langgraph-sdk==0.4.2
 langsmith==0.10.6
 lxml==6.1.1
 multidict==6.7.1
-numpy==2.5.1
+numpy==2.4.6
 orjson==3.11.9
 ormsgpack==1.12.2
 packaging==26.2
